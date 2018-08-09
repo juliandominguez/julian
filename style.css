@@ -41,5 +41,6 @@
 }
 .Coffins {
   z-index: 3;
+  position: absolute;
   margin-left: 50px;
 }
