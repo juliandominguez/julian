@@ -3,7 +3,7 @@
 }
 h1 {
  font-size: 40px;
-
+ color: #4CAF50;
 }
 .backgroundpic {
   height: 100%;
@@ -43,6 +43,5 @@ h1 {
   margin-left: 100px;
   height: 140px;
   padding: 5px;
-  background-color: ;
-
+  z-index: 2;
 }
