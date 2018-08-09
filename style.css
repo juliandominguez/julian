@@ -1,6 +1,4 @@
 /* style.css */
-
-}
 .titlecoffin {
  font-size: 40px;
  color: #4CAF50;
@@ -14,13 +12,10 @@
   z-index: -5;
 }
 .square {
-  height: 900px;
-  margin-right: 120px;
-  margin-left: 100px;
-  margin-top: 100px;
-  position: sticky;
+  height: 800px;
+  width: 800px;
+  margin-left: 50px;
   background-color: #DBDEEA;
-  z-index: -3;
 }
 .topnav {
   overflow: hidden;
