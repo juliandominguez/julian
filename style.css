@@ -16,6 +16,7 @@
 .square {
   height: 800px;
   width: 950px;
+  margin-right: 100px;
   margin-left: 100px;
   position: sticky;
   background-color: #DBDEEA;
