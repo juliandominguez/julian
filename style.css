@@ -14,7 +14,7 @@
   z-index: -5;
 }
 .square {
-  height: 1500px;
+  height: 100%;
   margin-right: 120px;
   margin-left: 100px;
   position: sticky;
