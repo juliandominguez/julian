@@ -15,6 +15,7 @@ html {
   align-self: center;
   margin-top: 0px;
   position: fixed;
+  background-repeat: no-repeat; 
   z-index: -5;
 }
 .square {
