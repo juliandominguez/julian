@@ -19,6 +19,7 @@
   margin-right: 50px;
   margin-left: 50px;
   background-color: #DBDEEA;
+  padding: 50px 10px 0px 10px;
 }
 .topnav {
   overflow: hidden;
@@ -46,6 +47,9 @@
 .listtitles {
   margin-left: 50px;
   text-decoration: none;
+}
+.list1 {
+  margin-left: 50px;
 }
 
 
