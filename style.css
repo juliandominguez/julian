@@ -43,13 +43,16 @@
   position: absolute;
   margin-left: 50px;
 }
+.listtitles1 {
+  margin-top: 600px;
+}
 .listtitles {
   margin-left: 50px;
   text-decoration: none;
   color: black;
 }
 .about {
-  margin-top: 600px;
+  margin-left: 50px;
   color: black;
 }
 .list1 {
