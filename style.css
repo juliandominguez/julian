@@ -49,17 +49,17 @@ html {
 .listtitles1 {
   margin-top: 650px;
   margin-left: 30px;
-  border: none;
+  text-decoration: none;
 }
 .listtitles {
   margin-left: 30px;
-  border: none;
   text-decoration: none;
   color: black;
 }
 .about {
   margin-left: 30px;
   color: black;
+  text-decoration: none;
 }
 .list1 {
   margin-left: 30px;
