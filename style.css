@@ -17,7 +17,7 @@ html {
   z-index: -5;
 }
 .square {
-  height: 1100px;
+  height: 1500px;
   width: 1030px;
   margin-right: 50px;
   margin-left: 100px;
@@ -43,38 +43,46 @@ html {
 }
 .Coffins {
   z-index: 3;
-  position: absolute;
-  margin-left: 50px;
+  position: relative;
+  bottom: 1470px;
+  margin-left: 150px;
 }
 .listtitles1 {
-  margin-top: 650px;
-  margin-left: 30px;
+  position: relative;
+  bottom: 900px;
+  margin-left: 130px;
   text-decoration: none;
 }
 .listtitles {
-  margin-left: 30px;
+  margin-left: 130px;
+  position: relative;
+  bottom: 900px;
   text-decoration: none;
   color: black;
 }
 .about {
-  margin-left: 30px;
+  margin-left: 130px;
   color: black;
+  position: relative;
+  bottom: 900px;
   text-decoration: none;
 }
 .list1 {
-  margin-left: 30px;
+  margin-left: 130px;
   color: black;
+  position: relative;
+  bottom: 900px;
   text-decoration: none;
 }
 .list2 {
-  margin-left: 30px;
+  margin-left: 130px;
   color: black;
+  position: relative;
+  bottom: 900px;
   text-decoration: none;
 }
-.description1 {
-  margin-top: 100px;
-  margin-left: 30px;
-}
 .p {
+  position: relative;
+  bottom: 900px;
   text-decoration: none;
 }
