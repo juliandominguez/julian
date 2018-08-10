@@ -2,6 +2,7 @@
 .titlecoffin {
  font-size: 40px;
  color: #4CAF50;
+ margin-left: 170px;
 }
 .backgroundpic {
   height: 100%;
@@ -42,3 +43,9 @@
   position: absolute;
   margin-left: 50px;
 }
+.listtitles {
+  margin-left: 50px;
+  text-decoration: none;
+}
+
+
