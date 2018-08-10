@@ -19,7 +19,6 @@
   margin-right: 50px;
   margin-left: 50px;
   background-color: #DBDEEA;
-  padding: 50px 10px 0px 10px;
 }
 .topnav {
   overflow: hidden;
@@ -48,7 +47,13 @@
   margin-left: 50px;
   text-decoration: none;
 }
+.about {
+  margin-top: 100px;
+}
 .list1 {
+  margin-left: 50px;
+}
+.list2 {
   margin-left: 50px;
 }
 
