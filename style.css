@@ -49,9 +49,11 @@ html {
 .listtitles1 {
   margin-top: 650px;
   margin-left: 30px;
+  border: none;
 }
 .listtitles {
   margin-left: 30px;
+  border: none;
   text-decoration: none;
   color: black;
 }
