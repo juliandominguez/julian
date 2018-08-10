@@ -11,11 +11,9 @@ html {
 .backgroundpic {
   height: 100%;
   width: 100%;
-  margin-left: 0px;
-  align-self: center;
-  margin-top: 0px;
+  margin: 0;
   position: fixed;
-  background-repeat: no-repeat; 
+  background-repeat: no-repeat;
   z-index: -5;
 }
 .square {
@@ -50,6 +48,7 @@ html {
 }
 .listtitles1 {
   margin-top: 650px;
+  margin-left: 50px;
 }
 .listtitles {
   margin-left: 50px;
