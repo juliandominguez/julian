@@ -45,17 +45,21 @@
 }
 .listtitles {
   margin-left: 50px;
+  margin-top: 490px;
   text-decoration: none;
+  color: black;
 }
 .about {
-  margin-top: 400px;
+  margin-top: 500px;
+  color: black;
 }
 .list1 {
   margin-left: 50px;
+  color: black;
 }
 .list2 {
   margin-left: 50px;
-
+  color: black;
 }
 
 
